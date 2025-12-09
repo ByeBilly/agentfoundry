@@ -1,0 +1,5 @@
+{
+  "name": "AgentFoundry",
+  "description": "A production-ready platform for non-technical business owners to build, test, and manage AI agents with integrated drift detection and prompt management.",
+  "requestFramePermissions": []
+}
